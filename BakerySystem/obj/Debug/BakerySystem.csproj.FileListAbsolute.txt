@@ -1,0 +1,38 @@
+E:\VCUOJ\2nd year\2nd Semester\2233_DBMS\BakerySystem\BakerySystem\bin\Debug\BakerySystem.exe.config
+E:\VCUOJ\2nd year\2nd Semester\2233_DBMS\BakerySystem\BakerySystem\bin\Debug\BakerySystem.exe
+E:\VCUOJ\2nd year\2nd Semester\2233_DBMS\BakerySystem\BakerySystem\bin\Debug\BakerySystem.pdb
+E:\VCUOJ\2nd year\2nd Semester\2233_DBMS\BakerySystem\BakerySystem\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+E:\VCUOJ\2nd year\2nd Semester\2233_DBMS\BakerySystem\BakerySystem\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+E:\VCUOJ\2nd year\2nd Semester\2233_DBMS\BakerySystem\BakerySystem\obj\Debug\BakerySystem.csprojAssemblyReference.cache
+E:\VCUOJ\2nd year\2nd Semester\2233_DBMS\BakerySystem\BakerySystem\obj\Debug\BakerySystem.Properties.Resources.resources
+E:\VCUOJ\2nd year\2nd Semester\2233_DBMS\BakerySystem\BakerySystem\obj\Debug\BakerySystem.csproj.GenerateResource.cache
+E:\VCUOJ\2nd year\2nd Semester\2233_DBMS\BakerySystem\BakerySystem\obj\Debug\BakerySystem.csproj.CoreCompileInputs.cache
+E:\VCUOJ\2nd year\2nd Semester\2233_DBMS\BakerySystem\BakerySystem\obj\Debug\BakerySystem.csproj.CopyComplete
+E:\VCUOJ\2nd year\2nd Semester\2233_DBMS\BakerySystem\BakerySystem\obj\Debug\BakerySystem.exe
+E:\VCUOJ\2nd year\2nd Semester\2233_DBMS\BakerySystem\BakerySystem\obj\Debug\BakerySystem.pdb
+E:\VCUOJ\2nd year\2nd Semester\2233_DBMS\BakerySystem\BakerySystem\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+E:\VCUOJ\2nd year\2nd Semester\2233_DBMS\BakerySystem\BakerySystem\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+E:\VCUOJ\2nd year\2nd Semester\2233_DBMS\BakerySystem\BakerySystem\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+E:\VCUOJ\2nd year\2nd Semester\2233_DBMS\BakerySystem\BakerySystem\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+E:\VCUOJ\2nd year\2nd Semester\2233_DBMS\BakerySystem\BakerySystem\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+E:\VCUOJ\2nd year\2nd Semester\2233_DBMS\BakerySystem\BakerySystem\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+E:\VCUOJ\2nd year\2nd Semester\2233_DBMS\BakerySystem\BakerySystem\obj\Debug\BakerySystem.Bakery.resources
+E:\BakerySystem\BakerySystem\bin\Debug\BakerySystem.exe.config
+E:\BakerySystem\BakerySystem\bin\Debug\BakerySystem.exe
+E:\BakerySystem\BakerySystem\bin\Debug\BakerySystem.pdb
+E:\BakerySystem\BakerySystem\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+E:\BakerySystem\BakerySystem\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+E:\BakerySystem\BakerySystem\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+E:\BakerySystem\BakerySystem\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+E:\BakerySystem\BakerySystem\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+E:\BakerySystem\BakerySystem\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+E:\BakerySystem\BakerySystem\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+E:\BakerySystem\BakerySystem\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+E:\BakerySystem\BakerySystem\obj\Debug\BakerySystem.csprojAssemblyReference.cache
+E:\BakerySystem\BakerySystem\obj\Debug\BakerySystem.Bakery.resources
+E:\BakerySystem\BakerySystem\obj\Debug\BakerySystem.Properties.Resources.resources
+E:\BakerySystem\BakerySystem\obj\Debug\BakerySystem.csproj.GenerateResource.cache
+E:\BakerySystem\BakerySystem\obj\Debug\BakerySystem.csproj.CoreCompileInputs.cache
+E:\BakerySystem\BakerySystem\obj\Debug\BakerySystem.csproj.CopyComplete
+E:\BakerySystem\BakerySystem\obj\Debug\BakerySystem.exe
+E:\BakerySystem\BakerySystem\obj\Debug\BakerySystem.pdb
